@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
   <mata charset="utf-8">
-  <title>pipGUI</title>
 </head>
 <body>
   <h1>pipGUI</h1>
